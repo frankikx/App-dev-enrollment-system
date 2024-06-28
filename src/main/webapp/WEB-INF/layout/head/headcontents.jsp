@@ -7,7 +7,7 @@
     lname = lname != null ? lname : "";
     fname = fname != null ? fname : "";
     %>
-    <title>Mega Able bootstrap admin template by codedthemes </title>
+    <title>Enrollment System</title>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 
